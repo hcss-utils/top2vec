@@ -4,7 +4,7 @@ __pycache__/
 
 # exclude data from source control by default
 /data/raw/
-
+/models/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 

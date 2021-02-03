@@ -1,10 +1,10 @@
-Template
-========
+top2vec
+=======
 
 
 About
 -----
-Write about 1-2 paragraphs describing the purpose of your project.
+Making top2vec work on our corpora. 
 
 
 Getting started
@@ -20,8 +20,8 @@ Then create a new virtual environment:
 
 .. code-block:: console
 
-    $ git clone https://github.com/hcss-utils/PROJECT_NAME.git
-    $ cd PROJECT_NAME
+    $ git clone https://github.com/hcss-utils/top2vec.git
+    $ cd top2vec
     $ python -m venv env
     $ . env/Scripts/activate # Windows
     $ . env/bin/activate # Linux / MacOS
@@ -30,8 +30,8 @@ Then create a new virtual environment:
 
 Usage
 ^^^^^
-Write about 1-2 paragraphs describing how to run notebooks / use models.
-
+1. Put pre-trained `models <https://www.kaggle.com/dangelov/covid19top2vec>`_ to ``models/``
+2. Run ``notebooks/``
 
 Project Organization
 --------------------
@@ -41,11 +41,8 @@ Project Organization
     ├── Makefile           <- Makefile with commands like `make clean`
     ├── README.md          <- The top-level README for developers using this project.
     ├── data
-    │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
