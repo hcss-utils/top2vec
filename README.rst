@@ -4,7 +4,7 @@ top2vec
 
 About
 -----
-Making top2vec work on our corpora. 
+Making top2vec work on deterrence corpora. 
 
 
 Getting started
@@ -27,10 +27,11 @@ Then create a new virtual environment:
     $ . env/bin/activate # Linux / MacOS
     $ pip install -r requirements.txt
 
+Alternatevly, follow google colab shared at Rizzoma/Topic modeling
 
 Usage
 ^^^^^
-1. Put pre-trained `models <https://www.kaggle.com/dangelov/covid19top2vec>`_ to ``models/``
+1. Put source files from GDrive (not sharing publicly here) into ``models/`` and ``data/``
 2. Run ``notebooks/``
 
 Project Organization
