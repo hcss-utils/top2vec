@@ -4,7 +4,18 @@ top2vec
 
 About
 -----
-Making top2vec work on deterrence corpora. 
+Making Top2Vec work on deterrence corpora. 
+
+.. centered:: `UMAP` projection of the deterrence model
+.. image:: reports/figures/umap-points-labeled.png
+    :width: 600 px
+    :align: center
+
+
+.. centered:: Plotting connectivity
+.. image:: reports/figures/umap-connectivity.png
+    :width: 600 px
+    :align: center
 
 
 Getting started
