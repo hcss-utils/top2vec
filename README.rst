@@ -1,5 +1,5 @@
-top2vec
-=======
+top2vec-deterrence
+==================
 
 
 About
@@ -8,13 +8,9 @@ Making Top2Vec work on deterrence corpora.
 
 .. list-table::
 
-.. figure:: reports/figures/umap-points-labeled.png
+.. figure:: reports/figures/umap-points-reduced-20-labeled-topics_zoomed.png
 
        Fig 1. `UMAP` projection of the deterrence model
-
-.. figure:: reports/figures/umap-connectivity.png
-
-       Fig 2. Plotting conectivity
 
 
 Getting started
