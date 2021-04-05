@@ -1,0 +1,766 @@
+year,label,size_per_topic,size_per_year,pct
+1957,Catholic church and deterrence,1,2,50.0
+1957,U.S. defense budgeting and policy-making,1,2,50.0
+1958,U.S. defense budgeting and policy-making,1,1,100.0
+1959,Catholic church and deterrence,2,2,100.0
+1960,Catholic church and deterrence,1,6,16.67
+1960,Nuclear deterrence,3,6,50.0
+1960,Russian nuclear security policy,1,6,16.67
+1960,U.S. and maintaining of the World order,1,6,16.67
+1961,'Perestroika' Cold War security issues,1,7,14.29
+1961,Catholic church and deterrence,3,7,42.86
+1961,Nuclear deterrence,2,7,28.57
+1961,U.S. defense budgeting and policy-making,1,7,14.29
+1962,Catholic church and deterrence,4,5,80.0
+1962,U.S. and maintaining of the World order,1,5,20.0
+1963,'Perestroika' Cold War security issues,1,4,25.0
+1963,Catholic church and deterrence,2,4,50.0
+1963,Nuclear deterrence,1,4,25.0
+1964,Catholic church and deterrence,2,3,66.67
+1964,Nuclear deterrence,1,3,33.33
+1965,'Perestroika' Cold War security issues,2,10,20.0
+1965,Catholic church and deterrence,3,10,30.0
+1965,MENA region security issues,1,10,10.0
+1965,Nuclear deterrence,2,10,20.0
+1965,U.S. and maintaining of the World order,1,10,10.0
+1965,U.S. defense budgeting and policy-making,1,10,10.0
+1966,Anti-Ballistic missile defense,1,5,20.0
+1966,Catholic church and deterrence,2,5,40.0
+1966,Nuclear deterrence,1,5,20.0
+1966,U.S. and maintaining of the World order,1,5,20.0
+1967,'Perestroika' Cold War security issues,1,3,33.33
+1967,Catholic church and deterrence,2,3,66.67
+1968,Catholic church and deterrence,3,4,75.0
+1968,U.S. and maintaining of the World order,1,4,25.0
+1969,Catholic church and deterrence,4,7,57.14
+1969,Non-Proliferation,1,7,14.29
+1969,Nuclear deterrence,1,7,14.29
+1969,Russian nuclear security policy,1,7,14.29
+1970,'Perestroika' Cold War security issues,1,4,25.0
+1970,Asia-Pacific region security issues,1,4,25.0
+1970,Catholic church and deterrence,1,4,25.0
+1970,U.S. defense budgeting and policy-making,1,4,25.0
+1971,'Perestroika' Cold War security issues,1,9,11.11
+1971,Catholic church and deterrence,5,9,55.56
+1971,U.S. and maintaining of the World order,3,9,33.33
+1972,'Perestroika' Cold War security issues,1,4,25.0
+1972,Catholic church and deterrence,2,4,50.0
+1972,U.S. and maintaining of the World order,1,4,25.0
+1973,Catholic church and deterrence,1,6,16.67
+1973,Nuclear deterrence,1,6,16.67
+1973,U.S. and maintaining of the World order,1,6,16.67
+1973,U.S. defense budgeting and policy-making,1,6,16.67
+1973,Unidentifiable,2,6,33.33
+1974,Catholic church and deterrence,4,4,100.0
+1975,Catholic church and deterrence,2,3,66.67
+1975,U.S. and maintaining of the World order,1,3,33.33
+1976,Catholic church and deterrence,3,5,60.0
+1976,MENA region security issues,1,5,20.0
+1976,Nuclear deterrence,1,5,20.0
+1977,'Perestroika' Cold War security issues,1,7,14.29
+1977,Asia-Pacific region security issues,1,7,14.29
+1977,Catholic church and deterrence,3,7,42.86
+1977,Nuclear deterrence,1,7,14.29
+1977,U.S. and maintaining of the World order,1,7,14.29
+1978,'Perestroika' Cold War security issues,1,11,9.09
+1978,Anti-Ballistic missile defense,1,11,9.09
+1978,Asia-Pacific region security issues,2,11,18.18
+1978,Catholic church and deterrence,4,11,36.36
+1978,India's nuclear security policy,1,11,9.09
+1978,U.S. and maintaining of the World order,1,11,9.09
+1978,U.S. defense budgeting and policy-making,1,11,9.09
+1979,'Perestroika' Cold War security issues,1,5,20.0
+1979,Anti-Ballistic missile defense,1,5,20.0
+1979,Catholic church and deterrence,1,5,20.0
+1979,Nuclear deterrence,2,5,40.0
+1980,'Perestroika' Cold War security issues,3,31,9.68
+1980,Anti-Ballistic missile defense,8,31,25.81
+1980,British nuclear security policy,1,31,3.23
+1980,Catholic church and deterrence,2,31,6.45
+1980,MENA region security issues,1,31,3.23
+1980,Nuclear deterrence,8,31,25.81
+1980,Transatlantic cooperation and NATO-Russia rivalry in Europe,2,31,6.45
+1980,U.S. and maintaining of the World order,2,31,6.45
+1980,U.S. defense budgeting and policy-making,4,31,12.9
+1981,'Perestroika' Cold War security issues,14,52,26.92
+1981,Anti-Ballistic missile defense,8,52,15.38
+1981,Asia-Pacific region security issues,1,52,1.92
+1981,Catholic church and deterrence,14,52,26.92
+1981,India's nuclear security policy,1,52,1.92
+1981,MENA region security issues,4,52,7.69
+1981,Nuclear deterrence,6,52,11.54
+1981,Transatlantic cooperation and NATO-Russia rivalry in Europe,1,52,1.92
+1981,U.S. and maintaining of the World order,1,52,1.92
+1981,U.S. defense budgeting and policy-making,1,52,1.92
+1981,Unidentifiable,1,52,1.92
+1982,'Perestroika' Cold War security issues,30,124,24.19
+1982,Anti-Ballistic missile defense,17,124,13.71
+1982,British nuclear security policy,3,124,2.42
+1982,Catholic church and deterrence,40,124,32.26
+1982,Non-Proliferation,1,124,0.81
+1982,Nuclear deterrence,29,124,23.39
+1982,U.S. Air Force,1,124,0.81
+1982,U.S. and maintaining of the World order,2,124,1.61
+1982,U.S. defense budgeting and policy-making,1,124,0.81
+1983,'Perestroika' Cold War security issues,45,195,23.08
+1983,Anti-Ballistic missile defense,28,195,14.36
+1983,British nuclear security policy,1,195,0.51
+1983,Catholic church and deterrence,77,195,39.49
+1983,MENA region security issues,3,195,1.54
+1983,Non-Proliferation,2,195,1.03
+1983,Nuclear deterrence,36,195,18.46
+1983,U.S. and maintaining of the World order,2,195,1.03
+1983,Unidentifiable,1,195,0.51
+1984,'Perestroika' Cold War security issues,31,119,26.05
+1984,Anti-Ballistic missile defense,19,119,15.97
+1984,British nuclear security policy,3,119,2.52
+1984,Catholic church and deterrence,37,119,31.09
+1984,MENA region security issues,1,119,0.84
+1984,Non-Proliferation,2,119,1.68
+1984,Nuclear deterrence,17,119,14.29
+1984,U.S. and maintaining of the World order,7,119,5.88
+1984,Unidentifiable,2,119,1.68
+1985,'Perestroika' Cold War security issues,62,241,25.73
+1985,Anti-Ballistic missile defense,72,241,29.88
+1985,British nuclear security policy,6,241,2.49
+1985,Catholic church and deterrence,61,241,25.31
+1985,MENA region security issues,1,241,0.41
+1985,Non-Proliferation,3,241,1.24
+1985,Nuclear deterrence,25,241,10.37
+1985,U.S. Nuclear weapon modernization and nuclear strategy,1,241,0.41
+1985,U.S. and maintaining of the World order,9,241,3.73
+1985,U.S. defense budgeting and policy-making,1,241,0.41
+1986,'Perestroika' Cold War security issues,72,217,33.18
+1986,Anti-Ballistic missile defense,44,217,20.28
+1986,British nuclear security policy,4,217,1.84
+1986,Catholic church and deterrence,49,217,22.58
+1986,MENA region security issues,1,217,0.46
+1986,Non-Proliferation,6,217,2.76
+1986,Nuclear deterrence,36,217,16.59
+1986,Transatlantic cooperation and NATO-Russia rivalry in Europe,1,217,0.46
+1986,U.S. and maintaining of the World order,2,217,0.92
+1986,U.S. defense budgeting and policy-making,1,217,0.46
+1986,Unidentifiable,1,217,0.46
+1987,'Perestroika' Cold War security issues,241,386,62.44
+1987,Anti-Ballistic missile defense,35,386,9.07
+1987,Asia-Pacific region security issues,1,386,0.26
+1987,British nuclear security policy,16,386,4.15
+1987,Catholic church and deterrence,43,386,11.14
+1987,MENA region security issues,4,386,1.04
+1987,Non-Proliferation,1,386,0.26
+1987,Nuclear deterrence,23,386,5.96
+1987,Transatlantic cooperation and NATO-Russia rivalry in Europe,4,386,1.04
+1987,U.S. Air Force,1,386,0.26
+1987,U.S. and maintaining of the World order,8,386,2.07
+1987,U.S. defense budgeting and policy-making,6,386,1.55
+1987,Unidentifiable,3,386,0.78
+1988,'Perestroika' Cold War security issues,90,274,32.85
+1988,Anti-Ballistic missile defense,57,274,20.8
+1988,Asia-Pacific region security issues,1,274,0.36
+1988,British nuclear security policy,13,274,4.74
+1988,Catholic church and deterrence,64,274,23.36
+1988,Korean Peninsula security/nuclear issues,1,274,0.36
+1988,MENA region security issues,9,274,3.28
+1988,Non-Proliferation,9,274,3.28
+1988,Nuclear deterrence,17,274,6.2
+1988,Transatlantic cooperation and NATO-Russia rivalry in Europe,3,274,1.09
+1988,U.S. - Russia nuclear cooperation and competition,2,274,0.73
+1988,U.S. Air Force,1,274,0.36
+1988,U.S. and maintaining of the World order,1,274,0.36
+1988,U.S. defense budgeting and policy-making,3,274,1.09
+1988,Unidentifiable,3,274,1.09
+1989,'Perestroika' Cold War security issues,147,288,51.04
+1989,Anti-Ballistic missile defense,44,288,15.28
+1989,British nuclear security policy,4,288,1.39
+1989,Catholic church and deterrence,51,288,17.71
+1989,India/Pakistani nuclear tensions,1,288,0.35
+1989,MENA region security issues,3,288,1.04
+1989,Nuclear deterrence,18,288,6.25
+1989,U.S. - Russia nuclear cooperation and competition,1,288,0.35
+1989,U.S. Nuclear weapon modernization and nuclear strategy,3,288,1.04
+1989,U.S. and maintaining of the World order,12,288,4.17
+1989,U.S. defense budgeting and policy-making,1,288,0.35
+1989,Unidentifiable,3,288,1.04
+1990,'Perestroika' Cold War security issues,35,141,24.82
+1990,Anti-Ballistic missile defense,31,141,21.99
+1990,British nuclear security policy,3,141,2.13
+1990,Catholic church and deterrence,16,141,11.35
+1990,India/Pakistani nuclear tensions,1,141,0.71
+1990,Korean Peninsula security/nuclear issues,1,141,0.71
+1990,MENA region security issues,16,141,11.35
+1990,Non-Proliferation,7,141,4.96
+1990,Nuclear deterrence,15,141,10.64
+1990,Transatlantic cooperation and NATO-Russia rivalry in Europe,1,141,0.71
+1990,U.S. Air Force,1,141,0.71
+1990,U.S. and maintaining of the World order,6,141,4.26
+1990,U.S. defense budgeting and policy-making,2,141,1.42
+1990,Unidentifiable,6,141,4.26
+1991,'Perestroika' Cold War security issues,29,163,17.79
+1991,Anti-Ballistic missile defense,41,163,25.15
+1991,Asia-Pacific region security issues,1,163,0.61
+1991,British nuclear security policy,5,163,3.07
+1991,Catholic church and deterrence,21,163,12.88
+1991,India/Pakistani nuclear tensions,3,163,1.84
+1991,MENA region security issues,14,163,8.59
+1991,Non-Proliferation,2,163,1.23
+1991,Nuclear deterrence,18,163,11.04
+1991,Russian nuclear security policy,1,163,0.61
+1991,Transatlantic cooperation and NATO-Russia rivalry in Europe,3,163,1.84
+1991,U.S. Air Force,1,163,0.61
+1991,U.S. and maintaining of the World order,10,163,6.13
+1991,U.S. defense budgeting and policy-making,10,163,6.13
+1991,Unidentifiable,4,163,2.45
+1992,'Perestroika' Cold War security issues,14,137,10.22
+1992,Anti-Ballistic missile defense,33,137,24.09
+1992,Asia-Pacific region security issues,1,137,0.73
+1992,British nuclear security policy,10,137,7.3
+1992,Catholic church and deterrence,21,137,15.33
+1992,MENA region security issues,6,137,4.38
+1992,Non-Proliferation,7,137,5.11
+1992,Nuclear deterrence,18,137,13.14
+1992,Transatlantic cooperation and NATO-Russia rivalry in Europe,1,137,0.73
+1992,U.S. - Russia nuclear cooperation and competition,2,137,1.46
+1992,U.S. Air Force,2,137,1.46
+1992,U.S. Nuclear weapon modernization and nuclear strategy,2,137,1.46
+1992,U.S. and maintaining of the World order,11,137,8.03
+1992,U.S. defense budgeting and policy-making,7,137,5.11
+1992,Unidentifiable,2,137,1.46
+1993,'Perestroika' Cold War security issues,5,137,3.65
+1993,Anti-Ballistic missile defense,31,137,22.63
+1993,Asia-Pacific region security issues,3,137,2.19
+1993,British nuclear security policy,9,137,6.57
+1993,Catholic church and deterrence,29,137,21.17
+1993,Korean Peninsula security/nuclear issues,1,137,0.73
+1993,MENA region security issues,11,137,8.03
+1993,Non-Proliferation,4,137,2.92
+1993,Nuclear deterrence,19,137,13.87
+1993,Transatlantic cooperation and NATO-Russia rivalry in Europe,6,137,4.38
+1993,U.S. - Russia nuclear cooperation and competition,2,137,1.46
+1993,U.S. and maintaining of the World order,12,137,8.76
+1993,U.S. defense budgeting and policy-making,3,137,2.19
+1993,Unidentifiable,2,137,1.46
+1994,'Perestroika' Cold War security issues,9,154,5.84
+1994,Anti-Ballistic missile defense,11,154,7.14
+1994,Asia-Pacific region security issues,2,154,1.3
+1994,British nuclear security policy,5,154,3.25
+1994,Catholic church and deterrence,38,154,24.68
+1994,Cyber deterrence,1,154,0.65
+1994,India/Pakistani nuclear tensions,1,154,0.65
+1994,Korean Peninsula security/nuclear issues,5,154,3.25
+1994,MENA region security issues,17,154,11.04
+1994,Non-Proliferation,4,154,2.6
+1994,Nuclear deterrence,26,154,16.88
+1994,Transatlantic cooperation and NATO-Russia rivalry in Europe,10,154,6.49
+1994,U.S. Air Force,1,154,0.65
+1994,U.S. and maintaining of the World order,17,154,11.04
+1994,U.S. defense budgeting and policy-making,4,154,2.6
+1994,Unidentifiable,3,154,1.95
+1995,'Perestroika' Cold War security issues,26,219,11.87
+1995,Anti-Ballistic missile defense,16,219,7.31
+1995,Asia-Pacific region security issues,2,219,0.91
+1995,British nuclear security policy,19,219,8.68
+1995,Catholic church and deterrence,38,219,17.35
+1995,MENA region security issues,19,219,8.68
+1995,Non-Proliferation,23,219,10.5
+1995,Nuclear deterrence,42,219,19.18
+1995,Russian nuclear security policy,1,219,0.46
+1995,Transatlantic cooperation and NATO-Russia rivalry in Europe,9,219,4.11
+1995,U.S. - Russia nuclear cooperation and competition,1,219,0.46
+1995,U.S. Air Force,1,219,0.46
+1995,U.S. and maintaining of the World order,9,219,4.11
+1995,U.S. defense budgeting and policy-making,9,219,4.11
+1995,Unidentifiable,4,219,1.83
+1996,'Perestroika' Cold War security issues,13,227,5.73
+1996,Anti-Ballistic missile defense,11,227,4.85
+1996,Asia-Pacific region security issues,6,227,2.64
+1996,British nuclear security policy,21,227,9.25
+1996,Catholic church and deterrence,39,227,17.18
+1996,India's nuclear security policy,1,227,0.44
+1996,India/Pakistani nuclear tensions,3,227,1.32
+1996,Korean Peninsula security/nuclear issues,4,227,1.76
+1996,MENA region security issues,14,227,6.17
+1996,Non-Proliferation,30,227,13.22
+1996,Nuclear deterrence,42,227,18.5
+1996,Russian nuclear security policy,4,227,1.76
+1996,Transatlantic cooperation and NATO-Russia rivalry in Europe,6,227,2.64
+1996,U.S. - Russia nuclear cooperation and competition,5,227,2.2
+1996,U.S. Air Force,1,227,0.44
+1996,U.S. Nuclear weapon modernization and nuclear strategy,2,227,0.88
+1996,U.S. and maintaining of the World order,11,227,4.85
+1996,U.S. defense budgeting and policy-making,9,227,3.96
+1996,Unidentifiable,5,227,2.2
+1997,'Perestroika' Cold War security issues,25,249,10.04
+1997,Anti-Ballistic missile defense,18,249,7.23
+1997,Asia-Pacific region security issues,9,249,3.61
+1997,British nuclear security policy,19,249,7.63
+1997,Catholic church and deterrence,44,249,17.67
+1997,Cyber deterrence,2,249,0.8
+1997,India/Pakistani nuclear tensions,6,249,2.41
+1997,Korean Peninsula security/nuclear issues,4,249,1.61
+1997,MENA region security issues,8,249,3.21
+1997,Non-Proliferation,12,249,4.82
+1997,Nuclear deterrence,28,249,11.24
+1997,Russian nuclear security policy,2,249,0.8
+1997,Transatlantic cooperation and NATO-Russia rivalry in Europe,14,249,5.62
+1997,U.S. - Russia nuclear cooperation and competition,4,249,1.61
+1997,U.S. Air Force,3,249,1.2
+1997,U.S. Nuclear weapon modernization and nuclear strategy,4,249,1.61
+1997,U.S. and maintaining of the World order,19,249,7.63
+1997,U.S. defense budgeting and policy-making,22,249,8.84
+1997,Unidentifiable,6,249,2.41
+1998,'Perestroika' Cold War security issues,9,472,1.91
+1998,Anti-Ballistic missile defense,23,472,4.87
+1998,Asia-Pacific region security issues,8,472,1.69
+1998,British nuclear security policy,37,472,7.84
+1998,Catholic church and deterrence,50,472,10.59
+1998,Cyber deterrence,1,472,0.21
+1998,India's nuclear security policy,6,472,1.27
+1998,India/Pakistani nuclear tensions,84,472,17.8
+1998,Korean Peninsula security/nuclear issues,1,472,0.21
+1998,MENA region security issues,31,472,6.57
+1998,Non-Proliferation,42,472,8.9
+1998,Nuclear deterrence,74,472,15.68
+1998,Russian nuclear security policy,5,472,1.06
+1998,Transatlantic cooperation and NATO-Russia rivalry in Europe,8,472,1.69
+1998,U.S. - Russia nuclear cooperation and competition,16,472,3.39
+1998,U.S. Air Force,5,472,1.06
+1998,U.S. Nuclear weapon modernization and nuclear strategy,6,472,1.27
+1998,U.S. and maintaining of the World order,31,472,6.57
+1998,U.S. defense budgeting and policy-making,27,472,5.72
+1998,Unidentifiable,8,472,1.69
+1999,'Perestroika' Cold War security issues,8,499,1.6
+1999,Anti-Ballistic missile defense,58,499,11.62
+1999,Asia-Pacific region security issues,17,499,3.41
+1999,British nuclear security policy,23,499,4.61
+1999,Catholic church and deterrence,55,499,11.02
+1999,Cyber deterrence,1,499,0.2
+1999,India's nuclear security policy,7,499,1.4
+1999,India/Pakistani nuclear tensions,97,499,19.44
+1999,Korean Peninsula security/nuclear issues,6,499,1.2
+1999,MENA region security issues,19,499,3.81
+1999,Non-Proliferation,32,499,6.41
+1999,Nuclear deterrence,43,499,8.62
+1999,Russian nuclear security policy,17,499,3.41
+1999,Transatlantic cooperation and NATO-Russia rivalry in Europe,18,499,3.61
+1999,U.S. - Russia nuclear cooperation and competition,32,499,6.41
+1999,U.S. Air Force,2,499,0.4
+1999,U.S. Nuclear weapon modernization and nuclear strategy,3,499,0.6
+1999,U.S. and maintaining of the World order,25,499,5.01
+1999,U.S. defense budgeting and policy-making,21,499,4.21
+1999,Unidentifiable,15,499,3.01
+2000,'Perestroika' Cold War security issues,6,542,1.11
+2000,Anti-Ballistic missile defense,127,542,23.43
+2000,Asia-Pacific region security issues,19,542,3.51
+2000,British nuclear security policy,24,542,4.43
+2000,Catholic church and deterrence,73,542,13.47
+2000,India's nuclear security policy,4,542,0.74
+2000,India/Pakistani nuclear tensions,46,542,8.49
+2000,Korean Peninsula security/nuclear issues,6,542,1.11
+2000,MENA region security issues,21,542,3.87
+2000,Non-Proliferation,38,542,7.01
+2000,Nuclear deterrence,29,542,5.35
+2000,Russian nuclear security policy,14,542,2.58
+2000,Transatlantic cooperation and NATO-Russia rivalry in Europe,11,542,2.03
+2000,U.S. - Russia nuclear cooperation and competition,52,542,9.59
+2000,U.S. Air Force,4,542,0.74
+2000,U.S. Nuclear weapon modernization and nuclear strategy,6,542,1.11
+2000,U.S. and maintaining of the World order,34,542,6.27
+2000,U.S. defense budgeting and policy-making,16,542,2.95
+2000,Unidentifiable,12,542,2.21
+2001,'Perestroika' Cold War security issues,8,490,1.63
+2001,Anti-Ballistic missile defense,151,490,30.82
+2001,Asia-Pacific region security issues,20,490,4.08
+2001,British nuclear security policy,21,490,4.29
+2001,Catholic church and deterrence,56,490,11.43
+2001,Cyber deterrence,2,490,0.41
+2001,India's nuclear security policy,8,490,1.63
+2001,India/Pakistani nuclear tensions,24,490,4.9
+2001,Korean Peninsula security/nuclear issues,2,490,0.41
+2001,MENA region security issues,19,490,3.88
+2001,Non-Proliferation,13,490,2.65
+2001,Nuclear deterrence,37,490,7.55
+2001,Russian nuclear security policy,7,490,1.43
+2001,Transatlantic cooperation and NATO-Russia rivalry in Europe,11,490,2.24
+2001,U.S. - Russia nuclear cooperation and competition,29,490,5.92
+2001,U.S. Air Force,5,490,1.02
+2001,U.S. Nuclear weapon modernization and nuclear strategy,9,490,1.84
+2001,U.S. and maintaining of the World order,27,490,5.51
+2001,U.S. defense budgeting and policy-making,19,490,3.88
+2001,Unidentifiable,22,490,4.49
+2002,'Perestroika' Cold War security issues,1,428,0.23
+2002,Anti-Ballistic missile defense,27,428,6.31
+2002,Asia-Pacific region security issues,16,428,3.74
+2002,British nuclear security policy,30,428,7.01
+2002,Catholic church and deterrence,58,428,13.55
+2002,Cyber deterrence,2,428,0.47
+2002,India's nuclear security policy,4,428,0.93
+2002,India/Pakistani nuclear tensions,50,428,11.68
+2002,Korean Peninsula security/nuclear issues,5,428,1.17
+2002,MENA region security issues,53,428,12.38
+2002,Non-Proliferation,14,428,3.27
+2002,Nuclear deterrence,69,428,16.12
+2002,Russian nuclear security policy,7,428,1.64
+2002,Transatlantic cooperation and NATO-Russia rivalry in Europe,9,428,2.1
+2002,U.S. - Russia nuclear cooperation and competition,15,428,3.5
+2002,U.S. Air Force,5,428,1.17
+2002,U.S. Nuclear weapon modernization and nuclear strategy,9,428,2.1
+2002,U.S. and maintaining of the World order,22,428,5.14
+2002,U.S. defense budgeting and policy-making,23,428,5.37
+2002,Unidentifiable,9,428,2.1
+2003,'Perestroika' Cold War security issues,4,449,0.89
+2003,Anti-Ballistic missile defense,24,449,5.35
+2003,Asia-Pacific region security issues,21,449,4.68
+2003,British nuclear security policy,11,449,2.45
+2003,Catholic church and deterrence,48,449,10.69
+2003,Cyber deterrence,1,449,0.22
+2003,India's nuclear security policy,7,449,1.56
+2003,India/Pakistani nuclear tensions,27,449,6.01
+2003,Korean Peninsula security/nuclear issues,80,449,17.82
+2003,MENA region security issues,59,449,13.14
+2003,Non-Proliferation,11,449,2.45
+2003,Nuclear deterrence,43,449,9.58
+2003,Russian nuclear security policy,12,449,2.67
+2003,Transatlantic cooperation and NATO-Russia rivalry in Europe,4,449,0.89
+2003,U.S. - Russia nuclear cooperation and competition,17,449,3.79
+2003,U.S. Air Force,8,449,1.78
+2003,U.S. Nuclear weapon modernization and nuclear strategy,8,449,1.78
+2003,U.S. and maintaining of the World order,41,449,9.13
+2003,U.S. defense budgeting and policy-making,17,449,3.79
+2003,Unidentifiable,6,449,1.34
+2004,'Perestroika' Cold War security issues,2,318,0.63
+2004,Anti-Ballistic missile defense,9,318,2.83
+2004,Asia-Pacific region security issues,18,318,5.66
+2004,British nuclear security policy,16,318,5.03
+2004,Catholic church and deterrence,46,318,14.47
+2004,India's nuclear security policy,12,318,3.77
+2004,India/Pakistani nuclear tensions,15,318,4.72
+2004,Korean Peninsula security/nuclear issues,16,318,5.03
+2004,MENA region security issues,61,318,19.18
+2004,Non-Proliferation,6,318,1.89
+2004,Nuclear deterrence,20,318,6.29
+2004,Russian nuclear security policy,12,318,3.77
+2004,Transatlantic cooperation and NATO-Russia rivalry in Europe,10,318,3.14
+2004,U.S. - Russia nuclear cooperation and competition,25,318,7.86
+2004,U.S. Air Force,4,318,1.26
+2004,U.S. Nuclear weapon modernization and nuclear strategy,5,318,1.57
+2004,U.S. and maintaining of the World order,24,318,7.55
+2004,U.S. defense budgeting and policy-making,10,318,3.14
+2004,Unidentifiable,7,318,2.2
+2005,'Perestroika' Cold War security issues,2,399,0.5
+2005,Anti-Ballistic missile defense,9,399,2.26
+2005,Asia-Pacific region security issues,33,399,8.27
+2005,British nuclear security policy,19,399,4.76
+2005,Catholic church and deterrence,55,399,13.78
+2005,Cyber deterrence,1,399,0.25
+2005,India's nuclear security policy,7,399,1.75
+2005,India/Pakistani nuclear tensions,37,399,9.27
+2005,Korean Peninsula security/nuclear issues,20,399,5.01
+2005,MENA region security issues,38,399,9.52
+2005,Non-Proliferation,59,399,14.79
+2005,Nuclear deterrence,26,399,6.52
+2005,Russian nuclear security policy,17,399,4.26
+2005,Transatlantic cooperation and NATO-Russia rivalry in Europe,5,399,1.25
+2005,U.S. - Russia nuclear cooperation and competition,8,399,2.01
+2005,U.S. Air Force,11,399,2.76
+2005,U.S. Nuclear weapon modernization and nuclear strategy,15,399,3.76
+2005,U.S. and maintaining of the World order,18,399,4.51
+2005,U.S. defense budgeting and policy-making,11,399,2.76
+2005,Unidentifiable,8,399,2.01
+2006,'Perestroika' Cold War security issues,27,531,5.08
+2006,Anti-Ballistic missile defense,8,531,1.51
+2006,Asia-Pacific region security issues,34,531,6.4
+2006,British nuclear security policy,57,531,10.73
+2006,Catholic church and deterrence,53,531,9.98
+2006,Cyber deterrence,1,531,0.19
+2006,India's nuclear security policy,33,531,6.21
+2006,India/Pakistani nuclear tensions,53,531,9.98
+2006,Korean Peninsula security/nuclear issues,26,531,4.9
+2006,MENA region security issues,93,531,17.51
+2006,Non-Proliferation,16,531,3.01
+2006,Nuclear deterrence,32,531,6.03
+2006,Russian nuclear security policy,13,531,2.45
+2006,Transatlantic cooperation and NATO-Russia rivalry in Europe,10,531,1.88
+2006,U.S. - Russia nuclear cooperation and competition,13,531,2.45
+2006,U.S. Air Force,4,531,0.75
+2006,U.S. Nuclear weapon modernization and nuclear strategy,8,531,1.51
+2006,U.S. and maintaining of the World order,21,531,3.95
+2006,U.S. defense budgeting and policy-making,11,531,2.07
+2006,Unidentifiable,18,531,3.39
+2007,'Perestroika' Cold War security issues,3,514,0.58
+2007,Anti-Ballistic missile defense,25,514,4.86
+2007,Asia-Pacific region security issues,16,514,3.11
+2007,British nuclear security policy,40,514,7.78
+2007,Catholic church and deterrence,56,514,10.89
+2007,Cyber deterrence,4,514,0.78
+2007,India's nuclear security policy,14,514,2.72
+2007,India/Pakistani nuclear tensions,25,514,4.86
+2007,Korean Peninsula security/nuclear issues,6,514,1.17
+2007,MENA region security issues,105,514,20.43
+2007,Non-Proliferation,11,514,2.14
+2007,Nuclear deterrence,41,514,7.98
+2007,Russian nuclear security policy,24,514,4.67
+2007,Transatlantic cooperation and NATO-Russia rivalry in Europe,15,514,2.92
+2007,U.S. - Russia nuclear cooperation and competition,22,514,4.28
+2007,U.S. Air Force,19,514,3.7
+2007,U.S. Nuclear weapon modernization and nuclear strategy,21,514,4.09
+2007,U.S. and maintaining of the World order,25,514,4.86
+2007,U.S. defense budgeting and policy-making,18,514,3.5
+2007,Unidentifiable,24,514,4.67
+2008,'Perestroika' Cold War security issues,10,471,2.12
+2008,Anti-Ballistic missile defense,11,471,2.34
+2008,Asia-Pacific region security issues,14,471,2.97
+2008,British nuclear security policy,22,471,4.67
+2008,Catholic church and deterrence,56,471,11.89
+2008,Cyber deterrence,2,471,0.42
+2008,India's nuclear security policy,31,471,6.58
+2008,India/Pakistani nuclear tensions,29,471,6.16
+2008,Korean Peninsula security/nuclear issues,8,471,1.7
+2008,MENA region security issues,57,471,12.1
+2008,Non-Proliferation,17,471,3.61
+2008,Nuclear deterrence,20,471,4.25
+2008,Russian nuclear security policy,18,471,3.82
+2008,Transatlantic cooperation and NATO-Russia rivalry in Europe,17,471,3.61
+2008,U.S. - Russia nuclear cooperation and competition,21,471,4.46
+2008,U.S. Air Force,39,471,8.28
+2008,U.S. Nuclear weapon modernization and nuclear strategy,21,471,4.46
+2008,U.S. and maintaining of the World order,30,471,6.37
+2008,U.S. defense budgeting and policy-making,29,471,6.16
+2008,Unidentifiable,19,471,4.03
+2009,'Perestroika' Cold War security issues,12,1080,1.11
+2009,Anti-Ballistic missile defense,17,1080,1.57
+2009,Asia-Pacific region security issues,73,1080,6.76
+2009,British nuclear security policy,50,1080,4.63
+2009,Catholic church and deterrence,71,1080,6.57
+2009,Cyber deterrence,11,1080,1.02
+2009,India's nuclear security policy,52,1080,4.81
+2009,India/Pakistani nuclear tensions,62,1080,5.74
+2009,Korean Peninsula security/nuclear issues,138,1080,12.78
+2009,MENA region security issues,71,1080,6.57
+2009,Non-Proliferation,74,1080,6.85
+2009,Nuclear deterrence,63,1080,5.83
+2009,Russian nuclear security policy,50,1080,4.63
+2009,Transatlantic cooperation and NATO-Russia rivalry in Europe,17,1080,1.57
+2009,U.S. - Russia nuclear cooperation and competition,71,1080,6.57
+2009,U.S. Air Force,109,1080,10.09
+2009,U.S. Nuclear weapon modernization and nuclear strategy,50,1080,4.63
+2009,U.S. and maintaining of the World order,28,1080,2.59
+2009,U.S. defense budgeting and policy-making,34,1080,3.15
+2009,Unidentifiable,27,1080,2.5
+2010,'Perestroika' Cold War security issues,8,1336,0.6
+2010,Anti-Ballistic missile defense,19,1336,1.42
+2010,Asia-Pacific region security issues,60,1336,4.49
+2010,British nuclear security policy,82,1336,6.14
+2010,Catholic church and deterrence,72,1336,5.39
+2010,Cyber deterrence,29,1336,2.17
+2010,India's nuclear security policy,48,1336,3.59
+2010,India/Pakistani nuclear tensions,105,1336,7.86
+2010,Korean Peninsula security/nuclear issues,177,1336,13.25
+2010,MENA region security issues,73,1336,5.46
+2010,Non-Proliferation,97,1336,7.26
+2010,Nuclear deterrence,81,1336,6.06
+2010,Russian nuclear security policy,62,1336,4.64
+2010,Transatlantic cooperation and NATO-Russia rivalry in Europe,89,1336,6.66
+2010,U.S. - Russia nuclear cooperation and competition,83,1336,6.21
+2010,U.S. Air Force,51,1336,3.82
+2010,U.S. Nuclear weapon modernization and nuclear strategy,104,1336,7.78
+2010,U.S. and maintaining of the World order,35,1336,2.62
+2010,U.S. defense budgeting and policy-making,37,1336,2.77
+2010,Unidentifiable,24,1336,1.8
+2011,'Perestroika' Cold War security issues,2,975,0.21
+2011,Anti-Ballistic missile defense,13,975,1.33
+2011,Asia-Pacific region security issues,52,975,5.33
+2011,British nuclear security policy,14,975,1.44
+2011,Catholic church and deterrence,63,975,6.46
+2011,Cyber deterrence,29,975,2.97
+2011,India's nuclear security policy,37,975,3.79
+2011,India/Pakistani nuclear tensions,136,975,13.95
+2011,Korean Peninsula security/nuclear issues,30,975,3.08
+2011,MENA region security issues,74,975,7.59
+2011,Non-Proliferation,30,975,3.08
+2011,Nuclear deterrence,58,975,5.95
+2011,Russian nuclear security policy,47,975,4.82
+2011,Transatlantic cooperation and NATO-Russia rivalry in Europe,24,975,2.46
+2011,U.S. - Russia nuclear cooperation and competition,82,975,8.41
+2011,U.S. Air Force,58,975,5.95
+2011,U.S. Nuclear weapon modernization and nuclear strategy,41,975,4.21
+2011,U.S. and maintaining of the World order,43,975,4.41
+2011,U.S. defense budgeting and policy-making,93,975,9.54
+2011,Unidentifiable,49,975,5.03
+2012,'Perestroika' Cold War security issues,3,1063,0.28
+2012,Anti-Ballistic missile defense,15,1063,1.41
+2012,Asia-Pacific region security issues,43,1063,4.05
+2012,British nuclear security policy,28,1063,2.63
+2012,Catholic church and deterrence,54,1063,5.08
+2012,Cyber deterrence,41,1063,3.86
+2012,India's nuclear security policy,73,1063,6.87
+2012,India/Pakistani nuclear tensions,112,1063,10.54
+2012,Korean Peninsula security/nuclear issues,62,1063,5.83
+2012,MENA region security issues,112,1063,10.54
+2012,Non-Proliferation,42,1063,3.95
+2012,Nuclear deterrence,40,1063,3.76
+2012,Russian nuclear security policy,61,1063,5.74
+2012,Transatlantic cooperation and NATO-Russia rivalry in Europe,37,1063,3.48
+2012,U.S. - Russia nuclear cooperation and competition,94,1063,8.84
+2012,U.S. Air Force,32,1063,3.01
+2012,U.S. Nuclear weapon modernization and nuclear strategy,65,1063,6.11
+2012,U.S. and maintaining of the World order,38,1063,3.57
+2012,U.S. defense budgeting and policy-making,53,1063,4.99
+2012,Unidentifiable,58,1063,5.46
+2013,'Perestroika' Cold War security issues,6,1419,0.42
+2013,Anti-Ballistic missile defense,13,1419,0.92
+2013,Asia-Pacific region security issues,54,1419,3.81
+2013,British nuclear security policy,86,1419,6.06
+2013,Catholic church and deterrence,67,1419,4.72
+2013,Cyber deterrence,53,1419,3.74
+2013,India's nuclear security policy,65,1419,4.58
+2013,India/Pakistani nuclear tensions,122,1419,8.6
+2013,Korean Peninsula security/nuclear issues,255,1419,17.97
+2013,MENA region security issues,90,1419,6.34
+2013,Non-Proliferation,37,1419,2.61
+2013,Nuclear deterrence,51,1419,3.59
+2013,Russian nuclear security policy,76,1419,5.36
+2013,Transatlantic cooperation and NATO-Russia rivalry in Europe,20,1419,1.41
+2013,U.S. - Russia nuclear cooperation and competition,73,1419,5.14
+2013,U.S. Air Force,87,1419,6.13
+2013,U.S. Nuclear weapon modernization and nuclear strategy,98,1419,6.91
+2013,U.S. and maintaining of the World order,41,1419,2.89
+2013,U.S. defense budgeting and policy-making,73,1419,5.14
+2013,Unidentifiable,52,1419,3.66
+2014,'Perestroika' Cold War security issues,3,891,0.34
+2014,Anti-Ballistic missile defense,7,891,0.79
+2014,Asia-Pacific region security issues,41,891,4.6
+2014,British nuclear security policy,49,891,5.5
+2014,Catholic church and deterrence,38,891,4.26
+2014,Cyber deterrence,28,891,3.14
+2014,India's nuclear security policy,32,891,3.59
+2014,India/Pakistani nuclear tensions,64,891,7.18
+2014,Korean Peninsula security/nuclear issues,148,891,16.61
+2014,MENA region security issues,36,891,4.04
+2014,Non-Proliferation,27,891,3.03
+2014,Nuclear deterrence,34,891,3.82
+2014,Russian nuclear security policy,29,891,3.25
+2014,Transatlantic cooperation and NATO-Russia rivalry in Europe,46,891,5.16
+2014,U.S. - Russia nuclear cooperation and competition,48,891,5.39
+2014,U.S. Air Force,90,891,10.1
+2014,U.S. Nuclear weapon modernization and nuclear strategy,47,891,5.27
+2014,U.S. and maintaining of the World order,40,891,4.49
+2014,U.S. defense budgeting and policy-making,52,891,5.84
+2014,Unidentifiable,32,891,3.59
+2015,'Perestroika' Cold War security issues,1,1353,0.07
+2015,Anti-Ballistic missile defense,11,1353,0.81
+2015,Asia-Pacific region security issues,38,1353,2.81
+2015,British nuclear security policy,130,1353,9.61
+2015,Catholic church and deterrence,76,1353,5.62
+2015,Cyber deterrence,135,1353,9.98
+2015,India's nuclear security policy,43,1353,3.18
+2015,India/Pakistani nuclear tensions,107,1353,7.91
+2015,Korean Peninsula security/nuclear issues,80,1353,5.91
+2015,MENA region security issues,59,1353,4.36
+2015,Non-Proliferation,78,1353,5.76
+2015,Nuclear deterrence,41,1353,3.03
+2015,Russian nuclear security policy,39,1353,2.88
+2015,Transatlantic cooperation and NATO-Russia rivalry in Europe,62,1353,4.58
+2015,U.S. - Russia nuclear cooperation and competition,36,1353,2.66
+2015,U.S. Air Force,131,1353,9.68
+2015,U.S. Nuclear weapon modernization and nuclear strategy,61,1353,4.51
+2015,U.S. and maintaining of the World order,35,1353,2.59
+2015,U.S. defense budgeting and policy-making,115,1353,8.5
+2015,Unidentifiable,75,1353,5.54
+2016,Anti-Ballistic missile defense,11,1987,0.55
+2016,Asia-Pacific region security issues,134,1987,6.74
+2016,British nuclear security policy,90,1987,4.53
+2016,Catholic church and deterrence,81,1987,4.08
+2016,Cyber deterrence,134,1987,6.74
+2016,India's nuclear security policy,59,1987,2.97
+2016,India/Pakistani nuclear tensions,248,1987,12.48
+2016,Korean Peninsula security/nuclear issues,286,1987,14.39
+2016,MENA region security issues,47,1987,2.37
+2016,Non-Proliferation,91,1987,4.58
+2016,Nuclear deterrence,64,1987,3.22
+2016,Russian nuclear security policy,35,1987,1.76
+2016,Transatlantic cooperation and NATO-Russia rivalry in Europe,111,1987,5.59
+2016,U.S. - Russia nuclear cooperation and competition,32,1987,1.61
+2016,U.S. Air Force,96,1987,4.83
+2016,U.S. Nuclear weapon modernization and nuclear strategy,133,1987,6.69
+2016,U.S. and maintaining of the World order,46,1987,2.32
+2016,U.S. defense budgeting and policy-making,186,1987,9.36
+2016,Unidentifiable,103,1987,5.18
+2017,'Perestroika' Cold War security issues,2,2668,0.07
+2017,Anti-Ballistic missile defense,11,2668,0.41
+2017,Asia-Pacific region security issues,170,2668,6.37
+2017,British nuclear security policy,76,2668,2.85
+2017,Catholic church and deterrence,119,2668,4.46
+2017,Cyber deterrence,223,2668,8.36
+2017,India's nuclear security policy,53,2668,1.99
+2017,India/Pakistani nuclear tensions,93,2668,3.49
+2017,Korean Peninsula security/nuclear issues,667,2668,25.0
+2017,MENA region security issues,56,2668,2.1
+2017,Non-Proliferation,224,2668,8.4
+2017,Nuclear deterrence,142,2668,5.32
+2017,Russian nuclear security policy,83,2668,3.11
+2017,Transatlantic cooperation and NATO-Russia rivalry in Europe,76,2668,2.85
+2017,U.S. - Russia nuclear cooperation and competition,52,2668,1.95
+2017,U.S. Air Force,135,2668,5.06
+2017,U.S. Nuclear weapon modernization and nuclear strategy,133,2668,4.99
+2017,U.S. and maintaining of the World order,100,2668,3.75
+2017,U.S. defense budgeting and policy-making,143,2668,5.36
+2017,Unidentifiable,110,2668,4.12
+2018,'Perestroika' Cold War security issues,4,1905,0.21
+2018,Anti-Ballistic missile defense,17,1905,0.89
+2018,Asia-Pacific region security issues,93,1905,4.88
+2018,British nuclear security policy,58,1905,3.04
+2018,Catholic church and deterrence,75,1905,3.94
+2018,Cyber deterrence,248,1905,13.02
+2018,India's nuclear security policy,82,1905,4.3
+2018,India/Pakistani nuclear tensions,118,1905,6.19
+2018,Korean Peninsula security/nuclear issues,188,1905,9.87
+2018,MENA region security issues,39,1905,2.05
+2018,Non-Proliferation,72,1905,3.78
+2018,Nuclear deterrence,90,1905,4.72
+2018,Russian nuclear security policy,84,1905,4.41
+2018,Transatlantic cooperation and NATO-Russia rivalry in Europe,82,1905,4.3
+2018,U.S. - Russia nuclear cooperation and competition,61,1905,3.2
+2018,U.S. Air Force,77,1905,4.04
+2018,U.S. Nuclear weapon modernization and nuclear strategy,122,1905,6.4
+2018,U.S. and maintaining of the World order,69,1905,3.62
+2018,U.S. defense budgeting and policy-making,100,1905,5.25
+2018,Unidentifiable,226,1905,11.86
+2019,'Perestroika' Cold War security issues,1,1518,0.07
+2019,Anti-Ballistic missile defense,36,1518,2.37
+2019,Asia-Pacific region security issues,75,1518,4.94
+2019,British nuclear security policy,63,1518,4.15
+2019,Catholic church and deterrence,50,1518,3.29
+2019,Cyber deterrence,68,1518,4.48
+2019,India's nuclear security policy,70,1518,4.61
+2019,India/Pakistani nuclear tensions,172,1518,11.33
+2019,Korean Peninsula security/nuclear issues,44,1518,2.9
+2019,MENA region security issues,58,1518,3.82
+2019,Non-Proliferation,73,1518,4.81
+2019,Nuclear deterrence,55,1518,3.62
+2019,Russian nuclear security policy,51,1518,3.36
+2019,Transatlantic cooperation and NATO-Russia rivalry in Europe,96,1518,6.32
+2019,U.S. - Russia nuclear cooperation and competition,57,1518,3.75
+2019,U.S. Air Force,85,1518,5.6
+2019,U.S. Nuclear weapon modernization and nuclear strategy,94,1518,6.19
+2019,U.S. and maintaining of the World order,60,1518,3.95
+2019,U.S. defense budgeting and policy-making,66,1518,4.35
+2019,Unidentifiable,244,1518,16.07
+2020,Anti-Ballistic missile defense,12,1724,0.7
+2020,Asia-Pacific region security issues,68,1724,3.94
+2020,British nuclear security policy,32,1724,1.86
+2020,Catholic church and deterrence,49,1724,2.84
+2020,Cyber deterrence,150,1724,8.7
+2020,India's nuclear security policy,45,1724,2.61
+2020,India/Pakistani nuclear tensions,96,1724,5.57
+2020,Korean Peninsula security/nuclear issues,89,1724,5.16
+2020,MENA region security issues,72,1724,4.18
+2020,Non-Proliferation,58,1724,3.36
+2020,Nuclear deterrence,34,1724,1.97
+2020,Russian nuclear security policy,54,1724,3.13
+2020,Transatlantic cooperation and NATO-Russia rivalry in Europe,111,1724,6.44
+2020,U.S. - Russia nuclear cooperation and competition,106,1724,6.15
+2020,U.S. Air Force,65,1724,3.77
+2020,U.S. Nuclear weapon modernization and nuclear strategy,73,1724,4.23
+2020,U.S. and maintaining of the World order,95,1724,5.51
+2020,U.S. defense budgeting and policy-making,68,1724,3.94
+2020,Unidentifiable,447,1724,25.93
