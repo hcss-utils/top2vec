@@ -128,7 +128,7 @@ tbb==2021.1.1
 tblib==1.7.0
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.4.1
+tensorflow==2.5.0
 tensorflow-estimator==2.4.0
 tensorflow-hub==0.11.0
 tensorflow-text==2.4.3
